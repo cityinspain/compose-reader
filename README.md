@@ -4,7 +4,7 @@ a command line utility to read docker compose files
 
 ### usage:
 
--l/--list: output a list of specified properties
+#### -l/--list: output a list of specified properties
 
 valid arguments:
 - s/services: list services in compose
@@ -14,7 +14,7 @@ valid arguments:
 - e/environments: list all environment variables
 - i/images: list each service's image
 
-<service_name>: list all services
+#### <service_name>: list all services
 
 ### roadmap
 
